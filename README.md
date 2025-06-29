@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zykl0pz
+- 👋 Hi, I’m @Zykl0pz ... or ZYX.
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning C#, C++, Ruby, Python and Java.
 - 💞️ I’m looking to collaborate on game development projects.
