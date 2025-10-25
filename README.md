@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zykl0pz ... or ZYX.
+- 👋 Hi, I’m Leonardo David Guirado García, my username is @Zykl0pz ... or ZYX.
 
 🇨🇺 From Havana, Cuba  
 🎓 Software Engineering Student at CUJAE  
