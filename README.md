@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @Zykl0pz ... or ZYX.
+
+🇨🇺 From Havana, Cuba  
+🎓 Software Engineering Student at CUJAE  
+🚀 Passionate about technology and continuous learning  
+
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning Python and Java.
+- 🌱 I’m currently learning web development, Pytho and Java.
 - 💞️ I’m looking to collaborate on game development projects.
 - 📫 How to reach me leonardodavidgamedev@gmail.com
 
